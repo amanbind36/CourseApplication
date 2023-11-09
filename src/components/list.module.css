@@ -1,0 +1,18 @@
+.container{
+    display: flex;
+    width: 80%;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    margin: auto;
+    margin-top: 20px;
+    font-family: 	Rockwell Extra Bold;
+}
+.inp{
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 50px;
+    width: 300px;
+}
+body{
+    font-family: 	Rockwell Extra Bold;
+    background: linear-gradient(0deg, rgba(172,109,206,1) 0%, rgba(202,159,225,1) 42%, rgba(87,220,176,1) 100%, rgba(85,242,145,1) 100%);
+}
